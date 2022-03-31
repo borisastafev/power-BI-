@@ -1,6 +1,7 @@
 # power-BI-
 dashboard, pivot table, scenario analysis by Power BI
 
+# Так как гитхаб ограничивает объем загружаемых файлов, то предоставляю ссылку на мои модели в power bi по след-й ссылке:
 # link: https://drive.google.com/file/d/1-61z68f-letuC0fLHGZiDEOAxe3PZMEe/view?usp=sharing
 
 # Данные
