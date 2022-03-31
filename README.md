@@ -1,6 +1,8 @@
 # power-BI-
 dashboard, pivot table, scenario analysis by Power BI
 
+# link: https://drive.google.com/file/d/1-61z68f-letuC0fLHGZiDEOAxe3PZMEe/view?usp=sharing
+
 # Данные
 Для построения вышеперечисленных таблиц и визуализаций я буду использовать базу данных Contoso Dataset от Microsoft.
 Contoso  - это вымышленный супермаркет, который осуществляет продажи в разных странах и городах.
